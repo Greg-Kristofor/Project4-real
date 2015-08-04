@@ -1,0 +1,46 @@
+body{
+	background: grey;
+}
+
+h1{
+	color: red;
+	font-size: 30pt;
+	font-style: helvetica;
+	margin: 0 auto;
+	background: black;
+	text-align: center;
+}
+
+p{
+	font-size: 14pt;
+	color: white;
+	text-align: center;
+}
+
+.navbar li {
+	display: inline;
+	font-size: 20pt;
+	font-weight: bold;
+}
+
+.navbar2 li {
+	font-size: 20pt;
+	font-weight: bold;
+	color: white;
+}
+
+.food {
+	float: right;
+	height: 300px;
+}
+
+.code {
+	float: left;
+	height: 300px;
+}
+
+.resumepic {
+	width: 50%;
+	margin:0 auto;
+	border: black 10px;
+}
